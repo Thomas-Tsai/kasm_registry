@@ -17,7 +17,7 @@
   "categories": [
     "Browser"
   ],
-  "friendly_name": "Chromium",
+  "friendly_name": "ProxyChromium",
   "architecture": [
     "amd64",
     "arm64"
@@ -27,5 +27,5 @@
     "1.14.x",
     "1.15.x"
   ],
-  "uncompressed_size_mb": 2170
+  "uncompressed_size_mb": 21700
 }
