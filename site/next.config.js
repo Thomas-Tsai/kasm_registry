@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'Kasm Technologies fork from thomas test',
     description: 'The official store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://github.com/Thomas-Tsai/kasm_registry/',
+    listUrl: 'http://blog.libthomas.org/kasm_registry/',
     contactUrl: 'https://github.com/Thomas-Tsai/kasm_registry/issues',
   },
   reactStrictMode: true,
