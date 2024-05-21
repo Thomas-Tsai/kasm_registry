@@ -2,7 +2,7 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies fork from thomas',
+    name: 'Kasm Technologies fork from thomas test',
     description: 'The official store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
     listUrl: 'https://github.com/Thomas-Tsai/kasm_registry/',
